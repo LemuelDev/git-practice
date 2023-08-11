@@ -1,1 +1,3 @@
-will be ignored 
+hello world 
+hello amigos
+this is sample3.txt
